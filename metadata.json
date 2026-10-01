@@ -1,0 +1,6 @@
+{
+  "name": "Ludo King - Player Profile",
+  "description": "High-fidelity Ludo King mobile player profile recreation with 3D game badges, real-time stats, interactive modals, and game audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
